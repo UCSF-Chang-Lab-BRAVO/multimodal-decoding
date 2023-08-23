@@ -1,0 +1,27 @@
+###########################################################
+#                Experiment Settings                      #
+###########################################################
+use_wandb: True
+
+###########################################################
+#                Loss Functions                           #
+###########################################################
+use_ctc_loss: false
+
+###########################################################
+#             DEFAULT OPTIMIZER & SCHEDULER SETTING       #
+###########################################################
+model_optimizer_type: Adam
+model_optimizer_params:
+    lr: 1.0e-4
+    betas: [0.5, 0.9]
+    weight_decay: 0.0
+model_scheduler_type: MultiStepLR
+model_scheduler_params:
+    gamma: 0.5
+    milestones:
+        - 40000
+        - 80000
+        - 120000
+        - 160000
+model_grad_norm: 1

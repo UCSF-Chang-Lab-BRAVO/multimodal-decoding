@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: synthesis
+Version: 2023.0.1
+Summary: Tools for ECoG decoding
+Author: Kaylo Littlejohn, Ran Wang
+Classifier: Intended Audience :: Science/ResearchProgramming Language :: Python ::l 3.8
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.

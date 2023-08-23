@@ -1,0 +1,251 @@
+,Ground Truth,Transcription,WER,CER,PER
+0,just look at all those people,she look at all those people,0.16666666666666666,0.13793103448275862,0.16
+1,i will see what i can do,i will see what i can do,0.0,0.0,0.0
+2,only when i give you an order,only when i could be a boy,0.5714285714285714,0.4827586206896552,0.4230769230769231
+3,i just got out here,i just got out here,0.0,0.0,0.0
+4,if anything ever happens to me,i have to me,0.6666666666666666,0.6333333333333333,0.6296296296296297
+5,where did you go to school,where did you are,0.5,0.46153846153846156,0.45454545454545453
+6,is it back in,is it back in,0.0,0.0,0.0
+7,you have a job,you have a job,0.0,0.0,0.0
+8,you got it all in your head,you got here all your right,0.42857142857142855,0.4444444444444444,0.375
+9,thank god he did,this time you did,0.75,0.625,0.5625
+10,better late than never,but like the number,1.0,0.5,0.5
+11,you were talking in your sleep,you were talking in your sleep,0.0,0.0,0.0
+12,i do like you,i do like you,0.0,0.0,0.0
+13,how do we know this is the way,how do we know this is the way,0.0,0.0,0.0
+14,i know a lot of nice girls,i know a lot of nice girls,0.0,0.0,0.0
+15,there is nothing we can do,what is that one too,0.8333333333333334,0.6153846153846154,0.5652173913043478
+16,we have to help him,we have to help him,0.0,0.0,0.0
+17,so how long is this trip,so how long is this trip,0.0,0.0,0.0
+18,what did you do tonight,what did you do tonight,0.0,0.0,0.0
+19,not possible you were never alone,no you were never alone,0.3333333333333333,0.30303030303030304,0.35714285714285715
+20,tell me what happened,tell me what happened,0.0,0.0,0.0
+21,why are you looking at me like that,what are you like that,0.5,0.45714285714285713,0.4827586206896552
+22,as many times as it takes,it must have it take,0.8333333333333334,0.52,0.5
+23,what you said to me in the room,what you said to me in the room,0.0,0.0,0.0
+24,can you make it back,can you make it back,0.0,0.0,0.0
+25,what friend is that,what friend is that,0.0,0.0,0.0
+26,i kind of like it,i can take it,0.6,0.47058823529411764,0.4117647058823529
+27,you want me to stay here,you want to stay here,0.16666666666666666,0.125,0.13636363636363635
+28,who is that guy,you say,1.0,0.7333333333333333,0.7692307692307693
+29,come here i want to show you something,have here i want to do something,0.375,0.2631578947368421,0.22580645161290322
+30,so they think he left it with you,so what is it,0.75,0.696969696969697,0.6896551724137931
+31,are they still out there,this out there,0.6,0.4583333333333333,0.4444444444444444
+32,do you mind me talking about your stuff,do you may be on to yourself,0.75,0.46153846153846156,0.5294117647058824
+33,did you know him very well,did you know him well,0.16666666666666666,0.19230769230769232,0.21739130434782608
+34,can i ask you then,can you that,0.6,0.4444444444444444,0.47058823529411764
+35,you said you wanted these,you can what they,0.8,0.52,0.5714285714285714
+36,did i have anything to say about it,i want to about it,0.5,0.5142857142857142,0.5161290322580645
+37,did you go to her,did you go to her,0.0,0.0,0.0
+38,is she a friend of yours,i see afraid of yours,0.6666666666666666,0.25,0.2727272727272727
+39,why are you speaking,why are you speaking,0.0,0.0,0.0
+40,i like my name,i thought i them,0.75,0.8571428571428571,0.46153846153846156
+41,what was the money for,what was that back for,0.4,0.3181818181818182,0.3
+42,i would have anyway,i would have anyway,0.0,0.0,0.0
+43,give me some of the good stuff,give me some of the good stuff,0.0,0.0,0.0
+44,is he coming home,is he coming home,0.0,0.0,0.0
+45,you are his friend,you are right,0.5,0.4444444444444444,0.5
+46,you want to bet,you want to bet,0.0,0.0,0.0
+47,you need to explain it,you need to say it,0.2,0.2727272727272727,0.23809523809523808
+48,did he tell her,get in here,1.0,0.6666666666666666,0.7857142857142857
+49,better if i just show you,but if i set told you,0.5,0.44,0.38095238095238093
+50,how are we doing,how are you doing,0.25,0.1875,0.14285714285714285
+51,tell me about the kids,tell me about this case,0.4,0.2727272727272727,0.25
+52,just tell me what you want,just tell me what you want,0.0,0.0,0.0
+53,will you take me home now,will you take me home now,0.0,0.0,0.0
+54,what did they look like,what did they look like,0.0,0.0,0.0
+55,why not call for help,why not call for help,0.0,0.0,0.0
+56,what is this thing,what is it this,0.5,0.2777777777777778,0.26666666666666666
+57,with all my heart,with all my it,0.25,0.23529411764705882,0.2
+58,did you see it,did you see it,0.0,0.0,0.0
+59,not sure let me think about it,talk to let me think about it,0.2857142857142857,0.26666666666666666,0.21428571428571427
+60,nothing we can do,that we can do,0.25,0.29411764705882354,0.3125
+61,what do you get,what do you get,0.0,0.0,0.0
+62,four but no one this important,but no one this morning,0.3333333333333333,0.3333333333333333,0.3448275862068966
+63,well what do you think it is,well what do you think it is,0.0,0.0,0.0
+64,good to see you again,can you see again,0.6,0.47619047619047616,0.3888888888888889
+65,my job is here,my job is here,0.0,0.0,0.0
+66,nice bunch of guys,just a guy,1.0,0.6666666666666666,0.5625
+67,then start taking them seriously,that was in love your day,1.2,0.6875,0.6896551724137931
+68,she got anything good,did i anything good,0.5,0.2857142857142857,0.3333333333333333
+69,we have to do something,we have to do something,0.0,0.0,0.0
+70,so you can use it now,so you can do it now,0.16666666666666666,0.14285714285714285,0.1
+71,hey let him out,i thought it out,0.75,0.6666666666666666,0.42857142857142855
+72,i think i might just take that look,i think i might just take that thing,0.125,0.14285714285714285,0.1
+73,i can see that what are they,i see that what are they,0.14285714285714285,0.14285714285714285,0.17391304347826086
+74,well maybe we can do something like that,why maybe we can do some like that,0.25,0.2,0.14705882352941177
+75,but what if you need more money,but where have you been for me,0.7142857142857143,0.45161290322580644,0.4074074074074074
+76,that was a beautiful message,that was a little bit,0.4,0.5,0.4
+77,so you did hang up,so you did,0.4,0.4444444444444444,0.4117647058823529
+78,of course i forgot,of course i forgot,0.0,0.0,0.0
+79,so call if you need me,so you tell me,0.5,0.5,0.5
+80,why do you think she left you,why do you think she leave too,0.2857142857142857,0.1724137931034483,0.16
+81,you should have let me do the talking,you should have let me do the talking,0.0,0.0,0.0
+82,could it have been this,can have been nice,0.6,0.4782608695652174,0.3684210526315789
+83,your face is familiar,you find your father,1.0,0.6190476190476191,0.6842105263157895
+84,why do you want to stop,why do you want to stop,0.0,0.0,0.0
+85,he told me what to do,he told me what to do,0.0,0.0,0.0
+86,get it in half an hour,get it in half an hour,0.0,0.0,0.0
+87,do you need a break,you need a back,0.4,0.3157894736842105,0.29411764705882354
+88,but what will happen,but what will happen,0.0,0.0,0.0
+89,what was he after,what was that after,0.25,0.17647058823529413,0.1875
+90,somebody must live here,somebody must the here,0.25,0.13043478260869565,0.14285714285714285
+91,my kind of people,my kind of beautiful,0.25,0.47058823529411764,0.35294117647058826
+92,if you hit me,have you hit me,0.25,0.3076923076923077,0.23076923076923078
+93,that looks pretty nice,that looks pretty nice,0.0,0.0,0.0
+94,no tell me why,so tell me why,0.25,0.07142857142857142,0.07692307692307693
+95,you got no idea what they were after,you got no idea what they were after,0.0,0.0,0.0
+96,you have a request,you have a girlfriend,,,
+97,what can it hurt,what can it hurt,0.0,0.0,0.0
+98,come and get it if you can,i might get it if you can,0.2857142857142857,0.2692307692307692,0.24
+99,excuse me i asked you a question,you may i ask you a question,0.42857142857142855,0.28125,0.22580645161290322
+100,will you tell him,will you tell him,0.0,0.0,0.0
+101,what do you believe in,what did you been in,0.4,0.2727272727272727,0.2631578947368421
+102,they gave you only four days,they gave you only four this,0.16666666666666666,0.10714285714285714,0.13043478260869565
+103,like a real sister,like a real sister,0.0,0.0,0.0
+104,i want you to go there,i want you to go there,0.0,0.0,0.0
+105,are you quite sure,are you coming or,0.5,0.4444444444444444,0.4
+106,can we get through these,how can that,1.0,0.75,0.7894736842105263
+107,i was just kidding around,i was in it about,0.6,0.52,0.5454545454545454
+108,you look a little green,you should at agree,0.8,0.5217391304347826,0.5
+109,no we already talked about that,now we always thought about that,0.5,0.3548387096774194,0.25925925925925924
+110,when you are ready,what are you right here,1.0,0.8333333333333334,0.7333333333333333
+111,it is kind of rough,it is kind of rough,0.0,0.0,0.0
+112,came to get a tan,i miss you get a night,0.8,0.7058823529411765,0.47058823529411764
+113,they were cut loose,then we can lose,1.0,0.3157894736842105,0.42857142857142855
+114,then why go back now,then why go back now,0.0,0.0,0.0
+115,did you see that woman,did you see the woman,0.2,0.09090909090909091,0.1
+116,find out who they are,but you think,1.0,0.7142857142857143,0.7058823529411765
+117,because there was no way to win,but what do we do,1.0,0.6451612903225806,0.6666666666666666
+118,can i have another one,can i have another one,0.0,0.0,0.0
+119,i never heard of it,i never heard of it,0.0,0.0,0.0
+120,i bet you did,i bet you did,0.0,0.0,0.0
+121,i was only going one way,it was only going one way,0.16666666666666666,0.041666666666666664,0.08695652173913043
+122,you should know something,you should know something,0.0,0.0,0.0
+123,i think you found something,i think you found something,0.0,0.0,0.0
+124,is that all you want,is that all you want,0.0,0.0,0.0
+125,i was trying to find the right time,so what do you find the right time,0.5,0.34285714285714286,0.3225806451612903
+126,next month is june,stay for the town,1.0,0.7777777777777778,0.6666666666666666
+127,until we find something,now we find something,0.25,0.17391304347826086,0.19047619047619047
+128,how about his job,how about his job,0.0,0.0,0.0
+129,a matter of hours now,i better of our name,0.8,0.38095238095238093,0.35294117647058826
+130,look answer my question,look answer my question,0.0,0.0,0.0
+131,you know it is,you know it is,0.0,0.0,0.0
+132,i thought i saw,i thought i saw,0.0,0.0,0.0
+133,i have been waiting for this ever since,i have a man for this ever since,0.25,0.23076923076923078,0.24242424242424243
+134,do you know that house,do you know that house,0.0,0.0,0.0
+135,i thought everything was working out fine,i thought it was working out fine,0.14285714285714285,0.21951219512195122,0.1935483870967742
+136,who told you about her,who told you about here,0.2,0.045454545454545456,0.10526315789473684
+137,because it was a lie,because he was a lie,0.2,0.1,0.1111111111111111
+138,when did you last see him,when did you last see him,0.0,0.0,0.0
+139,maybe i can help,maybe i can help,0.0,0.0,0.0
+140,how did they find out,how did they find out,0.0,0.0,0.0
+141,where does he hang out,what does it out,0.6,0.45454545454545453,0.4444444444444444
+142,how is your cold,your old,0.75,0.5,0.4666666666666667
+143,do you want to get some coffee,do you want to get some coffee,0.0,0.0,0.0
+144,what is it all about,what is it all about,0.0,0.0,0.0
+145,you must have a girlfriend,you must have a girlfriend,0.0,0.0,0.0
+146,how do you get out of the house,how do you get out of the house,0.0,0.0,0.0
+147,why would they come to me,why would they have to be,0.3333333333333333,0.16,0.2
+148,better get home before it is,may i come for it is,0.6666666666666666,0.4642857142857143,0.44
+149,you got your wish,you get your wish,0.25,0.058823529411764705,0.06666666666666667
+150,then what is it,then what is it,0.0,0.0,0.0
+151,you look better than ever,you like my hair,0.8,0.56,0.55
+152,will i like it,but i like it,0.25,0.2857142857142857,0.23076923076923078
+153,you look a little tired,you look a little tired,0.0,0.0,0.0
+154,where was the last place you left him,what was it that made you love him,0.625,0.40540540540540543,0.36363636363636365
+155,then i have no idea,then i have no idea,0.0,0.0,0.0
+156,not so bad yourself,not so bad yourself,0.0,0.0,0.0
+157,why would he pick this one,why would he pick this one,0.0,0.0,0.0
+158,what time was it,i miss it,0.75,0.625,0.6
+159,what do you say to him,what do you say to him,0.0,0.0,0.0
+160,sure count me in,she got me in,0.5,0.3125,0.3333333333333333
+161,is there something bad here,in the tear out here,0.8,0.5185185185185185,0.5454545454545454
+162,goodbye thanks for the lift,you may not for the left,0.8,0.4444444444444444,0.4583333333333333
+163,i would like to watch television,i would like to watch television,0.0,0.0,0.0
+164,will she like it,will she like it,0.0,0.0,0.0
+165,you told them that,you should them that,0.25,0.16666666666666666,0.1875
+166,you think he saw us,you think it is,0.6,0.3684210526315789,0.4117647058823529
+167,but you will always be here,but you were coming back here,0.5,0.4444444444444444,0.375
+168,maybe a few times i have,but you like him,1.0,0.7083333333333334,0.5909090909090909
+169,right you have a boat,what you have a boat,0.2,0.19047619047619047,0.11764705882352941
+170,i thought you already left,i thought you already help,0.2,0.11538461538461539,0.14285714285714285
+171,what did you do to him,what did you do to him,0.0,0.0,0.0
+172,if you want to,if you want to,0.0,0.0,0.0
+173,all i told them was the truth,can i do that was the truth,0.42857142857142855,0.27586206896551724,0.34615384615384615
+174,what about that apartment,what about that apartment,0.0,0.0,0.0
+175,you want to leave,you want to live,0.25,0.11764705882352941,0.06666666666666667
+176,what do you get if you finish,why do you get if you finish,0.14285714285714285,0.06896551724137931,0.07692307692307693
+177,you would have looked better,you would have looked better,0.0,0.0,0.0
+178,your hair looks the same,your hair looks the same,0.0,0.0,0.0
+179,how long have you been living here,how long have you been up here,0.14285714285714285,0.17647058823529413,0.17857142857142858
+180,three minutes to go,three more to go,0.25,0.2631578947368421,0.29411764705882354
+181,take at look at it,i can do,1.0,0.8333333333333334,0.7058823529411765
+182,you want to bring it down,you want to be in town,0.5,0.24,0.21739130434782608
+183,of him i think,of him i think,0.0,0.0,0.0
+184,what if he wants to get out,what if he wants to get out,0.0,0.0,0.0
+185,glad i could be of some help,that could be up,0.7142857142857143,0.5714285714285714,0.5384615384615384
+186,could we try it now,could we try it now,0.0,0.0,0.0
+187,how can i be sure,how can i make your,0.4,0.35294117647058826,0.3125
+188,give me your phone,give me your phone,0.0,0.0,0.0
+189,i heard you were looking for me,i heard you were looking for me,0.0,0.0,0.0
+190,i had a good night,i had a good night,0.0,0.0,0.0
+191,i already told him i was home,i am told him i was home,0.14285714285714285,0.20689655172413793,0.21428571428571427
+192,we will be fine,we will be fine,0.0,0.0,0.0
+193,how far from here,how far from here,0.0,0.0,0.0
+194,no thanks you go on,no thank you go on,0.2,0.05263157894736842,0.05555555555555555
+195,i can back it up,i can back it up,0.0,0.0,0.0
+196,would you like to see the rest,would you like to see the rest,0.0,0.0,0.0
+197,do you want me to draw a picture,do you want me to take a better,0.25,0.28125,0.2413793103448276
+198,what are you getting at,why are you getting at,0.2,0.08695652173913043,0.10526315789473684
+199,do you have enough,do you have enough,0.0,0.0,0.0
+200,i can use them,i can see them,0.25,0.14285714285714285,0.21428571428571427
+201,what do you want from us,what do you want for what,0.3333333333333333,0.25,0.21739130434782608
+202,i think i need a little air,i think i need a little air,0.0,0.0,0.0
+203,how do you remember this stuff,do you remember this time,0.3333333333333333,0.26666666666666666,0.23076923076923078
+204,of course it does,of course it does,0.0,0.0,0.0
+205,what kind of deal,what kind of deal,0.0,0.0,0.0
+206,what kind of man are you,what kind of man are you,0.0,0.0,0.0
+207,what happened to the baby,what happened to the baby,0.0,0.0,0.0
+208,will it be fun,will it be fun,0.0,0.0,0.0
+209,maybe we lost them,maybe we that name,0.5,0.3888888888888889,0.29411764705882354
+210,no i found it,no i found it,0.0,0.0,0.0
+211,so what do you want,so what do you want,0.0,0.0,0.0
+212,then they can watch,that thought it was,1.0,0.6842105263157895,0.6
+213,then how did he know your name,then how did he know your name,0.0,0.0,0.0
+214,good for you baby,good for you baby,0.0,0.0,0.0
+215,we have to keep moving,we have to get moving,0.2,0.13636363636363635,0.15
+216,you like the car,well that the car,0.5,0.5,0.42857142857142855
+217,i have a rough idea,i have a problem,0.4,0.42105263157894735,0.47058823529411764
+218,how much time do we have,how much time do we have,0.0,0.0,0.0
+219,we on for tomorrow night,we are my night,0.6,0.5416666666666666,0.42857142857142855
+220,there is a way,this is a week,0.5,0.42857142857142855,0.3333333333333333
+221,you were looking for us,you were made for us,0.2,0.30434782608695654,0.2631578947368421
+222,you spend the afternoon in bed,you bet the after a man,0.6666666666666666,0.43333333333333335,0.4444444444444444
+223,i never get my hair done,i never have i done,0.5,0.375,0.36363636363636365
+224,so how did they get here,so how did they get here,0.0,0.0,0.0
+225,you have no right to keep us here,you have no right to be out here,0.25,0.15151515151515152,0.14285714285714285
+226,what are you going to do to him,what are you going to do to him,0.0,0.0,0.0
+227,you can tell me,you called me,0.5,0.3333333333333333,0.42857142857142855
+228,when did this happen,when did this happen,0.0,0.0,0.0
+229,he saw the girl in the car,he saw the girl in the car,0.0,0.0,0.0
+230,where do we go from here,where do we go from here,0.0,0.0,0.0
+231,you really look awful,you want the off,0.75,0.6190476190476191,0.5882352941176471
+232,just forget about it,just about it,0.25,0.35,0.3157894736842105
+233,i said a clean break,i said it be back,0.6,0.45,0.3888888888888889
+234,it will be rough,it will be rough,0.0,0.0,0.0
+235,call me whatever you want,i mean what happened you want,0.8,0.52,0.5
+236,you left something out,you leave something out,0.25,0.13636363636363635,0.16666666666666666
+237,have her bring the money here,i worry about here,0.8333333333333334,0.6551724137931034,0.625
+238,but why do you want me,but why do you want me,0.0,0.0,0.0
+239,not even a little bit,tell him a little bit,0.4,0.38095238095238093,0.2857142857142857
+240,why do you have to go,why do you have to go,0.0,0.0,0.0
+241,when i wanted to,we must do,1.0,0.625,0.625
+242,why do i have to do this,why do i have to do this,0.0,0.0,0.0
+243,let me come and talk to you,let me come and talk to you,0.0,0.0,0.0
+244,no one will believe us,no one will believe us,0.0,0.0,0.0
+245,they run but they never get too far,they run but they never get too far,0.0,0.0,0.0
+246,you get used to it,you can you do it,0.6,0.4444444444444444,0.3333333333333333
+247,do you think so,do you that,0.5,0.4,0.5
+248,i was at home,i was at home,0.0,0.0,0.0
+249,but that should make you like her,but that should make you like her,0.0,0.0,0.0

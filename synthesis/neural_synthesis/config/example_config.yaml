@@ -1,0 +1,51 @@
+###########################################################
+#                Dataloader Settings                      #
+###########################################################
+dataloader_params:
+  input_types:
+    - 'hgr_fixed3_gen_all_1024'
+  output_types:
+    - 'hub_gen_audio_scaled_1024_nostartpad'
+  train_batch_size: 64
+  test_batch_size: 16
+  subject: 'bravo3'
+  torch_transforms: none
+  signal_length: 1024
+  window_length: 1024
+  shuffle_training_data: True
+  shuffle_test_data: True
+  train_data_fraction: 1.0
+  test_data_fraction: 1.0
+  use_test_set: True
+  num_train_workers: 1
+  num_test_workers: 1
+  pin_memory: False
+  variable_length_inputs: False
+  num_electrodes: 253                  # number of electrodes on the grid
+
+###########################################################
+#                Training Settings                        #
+###########################################################
+use_wandb: True
+use_ctc_loss: true
+ctc_params:
+  loss_lambda: [1.0]
+  output_ids: [0]
+steps_per_summary: 100
+steps_within_evaluation: 10
+epochs: 10000
+
+###########################################################
+#                Model Settings                           #
+###########################################################
+model_type: CnnRnnClassifier
+model_params:
+  KS: 6
+  bidirectional: true
+  dropout: 0.7
+  in_channels: 506
+  keeptime: true
+  n_classes: 101
+  num_layers: 3
+  rnn_dim: 260
+  token_input: false
