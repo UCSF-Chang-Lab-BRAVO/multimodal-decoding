@@ -5,6 +5,7 @@ To explore the code for each modality, check out the corresponding folder!
 
 ### Text decoding
 `text` folder -  train a model on the 1024-word-General sentence set and evaluate it on completely unseen sentences! 
+[COMING SOON]
 
 ### Synthesis
 `synthesis` -  train a model using HuBERT units for speech synthesis from brain activity
